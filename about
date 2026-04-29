@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>من نحن - About Us</title>
+</head>
+<body>
+
+    <nav>
+        <a href="index.html">الرئيسية</a> | 
+        <a href="about.html">من نحن</a>
+    </nav>
+
+    <header>
+        <h1>من نحن</h1>
+        <p>هذه الصفحة مخصصة للتعريف بفريق العمل وأهداف المشروع.</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>قصتنا</h2>
+            <p>نحن طلاب نعمل على تطوير تطبيقات ومواقع ويب مبتكرة.</p>
+        </section>
+
+        <section>
+            <h2>أعضاء الفريق</h2>
+            <ul>
+                <li>عياط (تطوير الصفحة الرئيسية)</li>
+                <li>صديقي (تطوير صفحة من نحن)</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>جميع الحقوق محفوظة &copy; 2026</p>
+    </footer>
+
+</body>
+</html>
