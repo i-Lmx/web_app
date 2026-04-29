@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>الصفحة الرئيسية</title>
+</head>
+<body>
+
+    <nav>
+        <a href="index.html">الرئيسية</a> | 
+        <a href="about.html">من نحن (صفحة خويك)</a>
+    </nav>
+
+    <header>
+        <h1>أهلاً بك في موقعنا</h1>
+        <p>هذه هي الصفحة الرئيسية التي أعمل عليها.</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>محتوى الصفحة</h2>
+            <p>هنا يمكنك إضافة الصور والنصوص الخاصة بمشروعك.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>جميع الحقوق محفوظة &copy; 2026</p>
+    </footer>
+
+</body>
+</html>
